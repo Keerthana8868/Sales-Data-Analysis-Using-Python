@@ -1,0 +1,151 @@
+Order_ID,Order_Date,City,Product,Category,Quantity,Unit_Price,Sales
+ORD0001,2025-01-13,Chennai,Headphones,Electronics,3,1726.53,5179.59
+ORD0002,2025-12-13,Mumbai,Headphones,Electronics,5,1681.04,8405.2
+ORD0003,2025-01-16,Pune,Laptop,Electronics,1,52524.01,52524.01
+ORD0004,2025-10-15,Delhi,Laptop,Electronics,2,56900.97,113801.94
+ORD0005,2025-04-23,Bengaluru,Pen Pack,Stationery,4,121.71,486.84
+ORD0006,2025-12-24,Chennai,Smartphone,Electronics,4,21437.68,85750.72
+ORD0007,2025-06-22,Bengaluru,Desk,Furniture,1,7011.3,7011.3
+ORD0008,2025-06-26,Bengaluru,Notebook,Stationery,5,76.99,384.95
+ORD0009,2025-10-02,Mumbai,Backpack,Accessories,1,1505.98,1505.98
+ORD0010,2025-10-10,Pune,Headphones,Electronics,3,1894.87,5684.61
+ORD0011,2025-10-23,Bengaluru,Notebook,Stationery,2,82.62,165.24
+ORD0012,2025-05-29,Bengaluru,Desk,Furniture,1,7926.38,7926.38
+ORD0013,2025-05-23,Hyderabad,Pen Pack,Stationery,4,122.61,490.44
+ORD0014,2025-07-09,Hyderabad,Smartphone,Electronics,3,20977.46,62932.38
+ORD0015,2025-11-08,Chennai,Headphones,Electronics,2,1809.83,3619.66
+ORD0016,2025-08-25,Delhi,Smartphone,Electronics,4,21190.22,84760.88
+ORD0017,2025-12-17,Bengaluru,Desk,Furniture,3,7911.42,23734.26
+ORD0018,2025-01-17,Bengaluru,Desk,Furniture,3,7381.4,22144.2
+ORD0019,2025-10-18,Mumbai,Desk,Furniture,3,7155.15,21465.45
+ORD0020,2025-11-26,Chennai,Pen Pack,Stationery,4,113.14,452.56
+ORD0021,2025-10-15,Pune,Desk,Furniture,5,7215.29,36076.45
+ORD0022,2025-10-26,Chennai,Pen Pack,Stationery,4,117.35,469.4
+ORD0023,2025-02-16,Chennai,Backpack,Accessories,1,1480.89,1480.89
+ORD0024,2025-12-15,Mumbai,Smartphone,Electronics,4,22339.36,89357.44
+ORD0025,2025-11-02,Pune,Pen Pack,Stationery,4,120.56,482.24
+ORD0026,2025-12-15,Pune,Laptop,Electronics,1,56599.05,56599.05
+ORD0027,2025-11-25,Mumbai,Office Chair,Furniture,3,4876.81,14630.43
+ORD0028,2025-08-21,Delhi,Smartphone,Electronics,1,23597.43,23597.43
+ORD0029,2025-09-14,Bengaluru,Office Chair,Furniture,2,5206.39,10412.78
+ORD0030,2025-11-24,Chennai,Office Chair,Furniture,5,5290.66,26453.3
+ORD0031,2025-03-24,Pune,Notebook,Stationery,5,85.8,429.0
+ORD0032,2025-11-03,Bengaluru,Laptop,Electronics,3,54899.73,164699.19
+ORD0033,2025-06-07,Pune,Notebook,Stationery,2,74.34,148.68
+ORD0034,2025-02-13,Pune,Headphones,Electronics,4,1891.01,7564.04
+ORD0035,2025-03-07,Chennai,Smartphone,Electronics,4,23572.91,94291.64
+ORD0036,2025-09-28,Chennai,Office Chair,Furniture,5,5136.05,25680.25
+ORD0037,2025-06-09,Delhi,Desk,Furniture,4,8094.18,32376.72
+ORD0038,2025-08-13,Chennai,Notebook,Stationery,5,79.38,396.9
+ORD0039,2025-02-02,Pune,Desk,Furniture,3,6925.24,20775.72
+ORD0040,2025-10-29,Delhi,Desk,Furniture,2,6908.63,13817.26
+ORD0041,2025-04-28,Hyderabad,Laptop,Electronics,1,58567.7,58567.7
+ORD0042,2025-09-21,Mumbai,Headphones,Electronics,2,1736.2,3472.4
+ORD0043,2025-10-04,Pune,Desk,Furniture,2,7768.02,15536.04
+ORD0044,2025-05-05,Chennai,Backpack,Accessories,4,1468.88,5875.52
+ORD0045,2025-02-19,Mumbai,Headphones,Electronics,4,1758.04,7032.16
+ORD0046,2025-01-28,Delhi,Backpack,Accessories,1,1301.58,1301.58
+ORD0047,2025-02-25,Pune,Notebook,Stationery,2,76.05,152.1
+ORD0048,2025-03-13,Mumbai,Backpack,Accessories,4,1329.1,5316.4
+ORD0049,2025-02-08,Pune,Desk,Furniture,4,7869.63,31478.52
+ORD0050,2025-01-26,Bengaluru,Headphones,Electronics,5,1896.78,9483.9
+ORD0051,2025-03-27,Chennai,Desk,Furniture,4,7482.77,29931.08
+ORD0052,2025-01-31,Mumbai,Pen Pack,Stationery,2,117.68,235.36
+ORD0053,2025-08-21,Delhi,Office Chair,Furniture,3,5135.94,15407.82
+ORD0054,2025-03-21,Bengaluru,Backpack,Accessories,2,1354.46,2708.92
+ORD0055,2025-06-10,Mumbai,Laptop,Electronics,1,51041.25,51041.25
+ORD0056,2025-01-30,Chennai,Smartphone,Electronics,5,20521.99,102609.95
+ORD0057,2025-11-01,Chennai,Headphones,Electronics,1,1850.46,1850.46
+ORD0058,2025-03-03,Pune,Pen Pack,Stationery,5,115.13,575.65
+ORD0059,2025-11-14,Pune,Laptop,Electronics,1,54289.18,54289.18
+ORD0060,2025-05-14,Hyderabad,Notebook,Stationery,2,82.17,164.34
+ORD0061,2025-05-16,Delhi,Desk,Furniture,4,7057.05,28228.2
+ORD0062,2025-08-23,Bengaluru,Office Chair,Furniture,3,5556.94,16670.82
+ORD0063,2025-08-23,Bengaluru,Laptop,Electronics,5,59386.4,296932.0
+ORD0064,2025-10-03,Chennai,Headphones,Electronics,2,1801.69,3603.38
+ORD0065,2025-02-05,Chennai,Notebook,Stationery,2,78.33,156.66
+ORD0066,2025-10-06,Delhi,Backpack,Accessories,3,1425.02,4275.06
+ORD0067,2025-12-08,Delhi,Laptop,Electronics,5,53234.53,266172.65
+ORD0068,2025-03-10,Bengaluru,Headphones,Electronics,3,1689.24,5067.72
+ORD0069,2025-05-20,Delhi,Smartphone,Electronics,3,22369.0,67107.0
+ORD0070,2025-04-15,Hyderabad,Notebook,Stationery,3,80.07,240.21
+ORD0071,2025-02-17,Bengaluru,Laptop,Electronics,4,57898.26,231593.04
+ORD0072,2025-06-20,Hyderabad,Laptop,Electronics,2,56206.6,112413.2
+ORD0073,2025-08-15,Pune,Smartphone,Electronics,5,22723.95,113619.75
+ORD0074,2025-02-27,Delhi,Laptop,Electronics,1,58916.45,58916.45
+ORD0075,2025-10-07,Pune,Smartphone,Electronics,1,23177.77,23177.77
+ORD0076,2025-08-09,Hyderabad,Smartphone,Electronics,2,20387.24,40774.48
+ORD0077,2025-07-03,Delhi,Laptop,Electronics,2,56602.19,113204.38
+ORD0078,2025-07-01,Mumbai,Headphones,Electronics,5,1910.63,9553.15
+ORD0079,2025-05-02,Chennai,Smartphone,Electronics,2,23676.25,47352.5
+ORD0080,2025-01-13,Hyderabad,Pen Pack,Stationery,2,124.54,249.08
+ORD0081,2025-12-09,Delhi,Pen Pack,Stationery,2,115.52,231.04
+ORD0082,2025-07-15,Chennai,Headphones,Electronics,1,1903.27,1903.27
+ORD0083,2025-08-24,Chennai,Desk,Furniture,3,7266.23,21798.69
+ORD0084,2025-01-13,Hyderabad,Desk,Furniture,2,7378.16,14756.32
+ORD0085,2025-05-23,Mumbai,Headphones,Electronics,3,1840.75,5522.25
+ORD0086,2025-01-15,Hyderabad,Notebook,Stationery,1,84.83,84.83
+ORD0087,2025-10-25,Pune,Smartphone,Electronics,3,20374.67,61124.01
+ORD0088,2025-06-26,Pune,Pen Pack,Stationery,3,118.78,356.34
+ORD0089,2025-07-17,Bengaluru,Headphones,Electronics,5,1710.74,8553.7
+ORD0090,2025-01-01,Pune,Pen Pack,Stationery,5,128.17,640.85
+ORD0091,2025-07-06,Delhi,Desk,Furniture,4,6983.97,27935.88
+ORD0092,2025-11-16,Bengaluru,Notebook,Stationery,3,82.09,246.27
+ORD0093,2025-09-17,Hyderabad,Office Chair,Furniture,3,5338.85,16016.55
+ORD0094,2025-12-23,Chennai,Pen Pack,Stationery,3,121.04,363.12
+ORD0095,2025-12-07,Chennai,Pen Pack,Stationery,4,123.4,493.6
+ORD0096,2025-07-27,Hyderabad,Office Chair,Furniture,5,5477.66,27388.3
+ORD0097,2025-04-18,Pune,Office Chair,Furniture,4,5437.75,21751.0
+ORD0098,2025-08-27,Chennai,Notebook,Stationery,4,79.26,317.04
+ORD0099,2025-03-28,Delhi,Backpack,Accessories,1,1351.57,1351.57
+ORD0100,2025-02-17,Chennai,Notebook,Stationery,2,82.21,164.42
+ORD0101,2025-03-17,Mumbai,Desk,Furniture,1,6955.46,6955.46
+ORD0102,2025-08-22,Pune,Headphones,Electronics,4,1911.21,7644.84
+ORD0103,2025-12-23,Chennai,Desk,Furniture,4,7493.25,29973.0
+ORD0104,2025-12-02,Bengaluru,Smartphone,Electronics,1,23382.16,23382.16
+ORD0105,2025-04-23,Delhi,Pen Pack,Stationery,2,125.84,251.68
+ORD0106,2025-01-26,Bengaluru,Backpack,Accessories,5,1343.82,6719.1
+ORD0107,2025-03-10,Pune,Backpack,Accessories,4,1437.54,5750.16
+ORD0108,2025-08-15,Pune,Notebook,Stationery,5,84.03,420.15
+ORD0109,2025-10-08,Delhi,Pen Pack,Stationery,4,127.63,510.52
+ORD0110,2025-08-19,Delhi,Backpack,Accessories,3,1456.4,4369.2
+ORD0111,2025-09-24,Hyderabad,Office Chair,Furniture,4,5305.45,21221.8
+ORD0112,2025-02-09,Hyderabad,Backpack,Accessories,3,1340.53,4021.59
+ORD0113,2025-10-04,Chennai,Notebook,Stationery,1,75.37,75.37
+ORD0114,2025-12-22,Bengaluru,Pen Pack,Stationery,2,123.96,247.92
+ORD0115,2025-07-28,Mumbai,Pen Pack,Stationery,3,120.82,362.46
+ORD0116,2025-04-16,Pune,Laptop,Electronics,4,54027.4,216109.6
+ORD0117,2025-10-22,Hyderabad,Laptop,Electronics,4,54797.42,219189.68
+ORD0118,2025-07-19,Delhi,Office Chair,Furniture,4,5231.8,20927.2
+ORD0119,2025-09-07,Mumbai,Desk,Furniture,2,7227.52,14455.04
+ORD0120,2025-07-19,Mumbai,Laptop,Electronics,3,56486.09,169458.27
+ORD0121,2025-08-28,Pune,Smartphone,Electronics,2,23692.14,47384.28
+ORD0122,2025-07-21,Bengaluru,Laptop,Electronics,5,55566.65,277833.25
+ORD0123,2025-11-26,Mumbai,Headphones,Electronics,4,1695.08,6780.32
+ORD0124,2025-01-26,Chennai,Smartphone,Electronics,3,21574.45,64723.35
+ORD0125,2025-06-17,Mumbai,Backpack,Accessories,3,1458.52,4375.56
+ORD0126,2025-08-04,Mumbai,Office Chair,Furniture,3,5478.65,16435.95
+ORD0127,2025-10-04,Hyderabad,Laptop,Electronics,1,59399.19,59399.19
+ORD0128,2025-11-29,Delhi,Desk,Furniture,1,7837.48,7837.48
+ORD0129,2025-01-16,Bengaluru,Laptop,Electronics,2,52354.37,104708.74
+ORD0130,2025-05-03,Bengaluru,Smartphone,Electronics,2,21906.93,43813.86
+ORD0131,2025-08-27,Chennai,Desk,Furniture,3,7820.28,23460.84
+ORD0132,2025-03-25,Bengaluru,Headphones,Electronics,3,1687.13,5061.39
+ORD0133,2025-10-22,Delhi,Office Chair,Furniture,4,5114.02,20456.08
+ORD0134,2025-02-08,Delhi,Desk,Furniture,5,7728.74,38643.7
+ORD0135,2025-02-22,Pune,Desk,Furniture,3,7920.35,23761.05
+ORD0136,2025-10-17,Mumbai,Headphones,Electronics,1,1755.99,1755.99
+ORD0137,2025-02-05,Bengaluru,Notebook,Stationery,5,81.89,409.45
+ORD0138,2025-09-08,Hyderabad,Pen Pack,Stationery,1,118.72,118.72
+ORD0139,2025-12-29,Delhi,Backpack,Accessories,2,1385.55,2771.1
+ORD0140,2025-11-12,Mumbai,Office Chair,Furniture,5,5428.5,27142.5
+ORD0141,2025-10-31,Chennai,Pen Pack,Stationery,3,116.59,349.77
+ORD0142,2025-05-23,Mumbai,Headphones,Electronics,4,1726.23,6904.92
+ORD0143,2025-06-22,Hyderabad,Pen Pack,Stationery,1,119.89,119.89
+ORD0144,2025-09-07,Hyderabad,Smartphone,Electronics,2,21488.98,42977.96
+ORD0145,2025-05-24,Hyderabad,Notebook,Stationery,5,82.58,412.9
+ORD0146,2025-09-22,Delhi,Laptop,Electronics,2,51353.39,102706.78
+ORD0147,2025-09-08,Delhi,Pen Pack,Stationery,5,124.96,624.8
+ORD0148,2025-11-27,Bengaluru,Backpack,Accessories,4,1388.39,5553.56
+ORD0149,2025-05-31,Chennai,Headphones,Electronics,2,1772.47,3544.94
+ORD0150,2025-12-06,Pune,Office Chair,Furniture,5,5091.03,25455.15
